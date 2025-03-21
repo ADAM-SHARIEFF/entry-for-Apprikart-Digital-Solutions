@@ -13,8 +13,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Movie Database Explorer",
-  description: "Browse and discover movies from TheMovieDB",
-    generator: 'v0.dev'
+  description: "Browse and discover movies from TheMovieDB"
 }
 
 export default function RootLayout({
